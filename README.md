@@ -1,4 +1,4 @@
-# Mobile lab 1
+# Mobile lab 2
 
 ## Описание
 
@@ -6,7 +6,7 @@
 
 ## Пример работы
 
-https://github.com/user-attachments/assets/9d5e8cea-5813-4a13-9ef2-b97a478927a4
+https://github.com/user-attachments/assets/19f3c900-a7bb-401d-bf5f-3ce802c7af85
 
 Проект был создано с помощью [Expo](https://expo.dev) [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
