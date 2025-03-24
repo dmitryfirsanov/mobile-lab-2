@@ -5,7 +5,7 @@ import { Minus, Plus, ShoppingBag } from "lucide-react-native";
 
 import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
-import { dishes, Dish } from "@/data/dishes";
+import { dishes, Dish } from "@/constants/Dishes";
 
 interface OrderItem extends Dish {
   quantity: number;

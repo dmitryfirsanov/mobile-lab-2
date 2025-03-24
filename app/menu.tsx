@@ -3,7 +3,7 @@ import { Stack, useLocalSearchParams, useRouter } from "expo-router";
 
 import { ThemedText } from "@/components/ThemedText";
 import { ThemedView } from "@/components/ThemedView";
-import { dishes, Dish } from "@/data/dishes";
+import { dishes, Dish } from "@/constants/Dishes";
 
 export default function MenuScreen() {
   const { name } = useLocalSearchParams();
